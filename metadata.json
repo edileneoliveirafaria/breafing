@@ -1,0 +1,7 @@
+{
+  "name": "Architecture Client Briefing",
+  "description": "A sophisticated multi-step briefing application for architectural projects, featuring audio recording, file uploads, and detailed service selection.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
